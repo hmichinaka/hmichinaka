@@ -2,7 +2,7 @@
 
 I am freshly completed a Data Science course from Le Wagon and excited to join to the real-wrold data science community. I am particulary interested in Data Visualisation with geo data.
 
-- 🔭 My latest project is **cycle_safe(berlin)**: [Repo](https://github.com/hmichinaka/berlin-bike-theft-forecasting), [Webapp](https://cyclesafeberlin.herokuapp.com)
+- 🔭 My latest project is **cycle_safe(berlin)**: [Repo](https://github.com/hmichinaka/berlin-bike-theft-forecasting), [Webapp](https://cyclesafeberlin.herokuapp.com), [Live presentation on YouTube](https://youtu.be/lyFH0OvAV9w?t=1095) 
 
 - 🌱 I’m currently learning **SQL**, **Tableau** and **Machine Learning(Scikit-learn)**
 
