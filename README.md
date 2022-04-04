@@ -1,4 +1,4 @@
-### Welcome to Hitoshi's Readme 👋
+## Welcome to Hitoshi's Readme 👋
 
 I am freshly completed a Data Science course from Le Wagon and excited to join to the real-wrold data science community. I am particulary interested in Data Visualisation with geo data.
 
