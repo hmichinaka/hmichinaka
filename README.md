@@ -30,10 +30,7 @@ I am freshly completed a Data Science course from Le Wagon and excited to join t
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> 
-    <img src=https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="docker" width="70" height="40"/> </a>
-
-</p>
-                                                                                                                                              
+    <img src=https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="docker" width="70" height="40"/> </a>                                                                                                                                              
                                                                                                                                               ## My Github ## GitHub Stats
 ![Hitoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmichinaka&theme=nord&show_icons=true)
 
