@@ -4,20 +4,18 @@ I am freshly completed a Data Science course from Le Wagon and excited to join t
 
 - 🔭 My latest project is **cycle_safe(berlin)**: [Repo](https://github.com/hmichinaka/berlin-bike-theft-forecasting), [Webapp](https://cyclesafeberlin.herokuapp.com)
 
-- 🌱 I’m currently learning **SQL**, **Tableau** and **Machine Learning**
+- 🌱 I’m currently learning **SQL**, **Tableau** and **Machine Learning(Scikit-learn)**
 
 - 👨‍💻 I'm looking for a job as (Junior) Data Analyst based in Berlin
 
 - 💪 I have 8 years experience in international engineering related businesses. The detail is in LinkedIn as below.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
+##Connect with me:  
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hmichinaka/) 
 
   
 </p>
-<h3 align="left">Languages and Tools:</h3>
+##Languages and Tools:
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
