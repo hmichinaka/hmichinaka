@@ -10,12 +10,12 @@ I am freshly completed a Data Science course from Le Wagon and excited to join t
 
 - 💪 I have 8 years experience in international engineering related businesses. The detail is in LinkedIn as below.
 
-##Connect with me:  
+## Connect with me:  
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hmichinaka/) 
 
-  
+
+## Languages and Tools:
 </p>
-##Languages and Tools:
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
