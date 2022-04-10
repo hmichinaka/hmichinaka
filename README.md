@@ -4,7 +4,7 @@ I have just completed a Data Science course from Le Wagon and excited to join to
 
 - 🔭 My latest project is **cycle_safe(berlin)**: [Repo](https://github.com/hmichinaka/berlin-bike-theft-forecasting), [Webapp](https://cyclesafeberlin.herokuapp.com), [Live presentation on YouTube](https://youtu.be/lyFH0OvAV9w?t=1095) 
 
-- 🌱 I’m currently learning **SQL**, **Tableau** and **Machine Learning(Scikit-learn)**
+- 🌱 I’m currently learning **SQL** and **Tableau**
 
 - 👨‍💻 I'm looking for a job as (Junior) Data Analyst based in Berlin
 
