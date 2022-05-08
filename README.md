@@ -1,6 +1,6 @@
 ## Welcome to Hitoshi's Readme 👋
 
-I have just completed a Data Science course from Le Wagon and excited to join to the real-wrold data science community. I am particulary interested in Data Visualisation with geo data. 
+After completed a coding bootcamp for Data Science, I am actively learning every day and looking for a job as a Data Analyst.
 
 - 🔭 My latest project is **Advanced SQL for Analytics and Business Intelligence**: [Repo](https://github.com/hmichinaka/sql-ecommerce-analytics-bi)
 
@@ -8,7 +8,7 @@ I have just completed a Data Science course from Le Wagon and excited to join to
 
 - 🌱 I’m currently learning **SQL** and **Tableau** from online courses
 
-- 👨‍💻 I'm looking for a job as (Junior) Data Analyst based in Berlin
+- 👨‍💻 I'm looking for a job as a (Junior) Data Analyst based in Berlin
 
 - 💪 I have 8 years experience in international engineering related businesses. The detail is in LinkedIn as below. 
 
