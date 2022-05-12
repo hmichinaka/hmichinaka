@@ -4,7 +4,7 @@ After completed a coding bootcamp for Data Science, I am actively learning every
 
 - 🔭 My latest project is **Advanced SQL for Analytics and Business Intelligence**: [Repo](https://github.com/hmichinaka/sql-ecommerce-analytics-bi)
 
-  my biggest project is 👉 **cycle_safe(berlin)**: [Repo](https://github.com/hmichinaka/berlin-bike-theft-forecasting), [Webapp](https://cyclesafeberlin.herokuapp.com), [Live presentation on YouTube](https://youtu.be/lyFH0OvAV9w?t=1095) 
+  my most challenging project was 👉 **cycle_safe(berlin)**: [Repo](https://github.com/hmichinaka/berlin-bike-theft-forecasting), [Webapp](https://cyclesafeberlin.herokuapp.com), [Live presentation on YouTube](https://youtu.be/lyFH0OvAV9w?t=1095) 
 
 - 🌱 I’m currently learning **SQL** and **Tableau** from online courses
 
