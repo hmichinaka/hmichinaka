@@ -10,7 +10,7 @@ After completed a coding bootcamp for Data Science, I am actively learning every
 
 - 👨‍💻 I'm looking for a job as a (Junior) Data Analyst based in Berlin
 
-- 💪 I have 8 years experience in international engineering related businesses. The detail is in LinkedIn as below. 
+- 💪 I have 8 years experience in international engineering including sales analyses. The detail is in LinkedIn as below. 
 
 ## Connect with me:  
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hmichinaka/) 
