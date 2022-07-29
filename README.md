@@ -1,6 +1,6 @@
 ## Welcome to Hitoshi's Readme 👋
 
-After completed a coding bootcamp for Data Science, I am actively learning every day and looking for a job as a Data Analyst.
+After completed a coding bootcamp for Data Science, I am actively learning every day and looking for a job as a Data Analyst. 
 
 - 🔭 My latest project is **Advanced SQL for Analytics and Business Intelligence**: [Repo](https://github.com/hmichinaka/sql-ecommerce-analytics-bi)
 
