@@ -6,7 +6,7 @@ After completed a coding bootcamp for Data Science, I am actively learning every
 
   my most challenging project was 👉 **cycle_safe(berlin)**: [Repo](https://github.com/hmichinaka/berlin-bike-theft-forecasting), [Webapp](https://cyclesafeberlin.herokuapp.com), [Live presentation on YouTube](https://youtu.be/lyFH0OvAV9w?t=1095) 
 
-- 🌱 I’m currently learning **SQL** and **Tableau** from online courses
+- 🌱 I’m currently learning **Tableau** from online courses
 
 - 👨‍💻 I'm looking for a job as a (Junior) Data Analyst based in Berlin
 
