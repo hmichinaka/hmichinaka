@@ -1,4 +1,4 @@
-## Welcome to Hitoshi's Readme 👋
+## Welcome to Hitoshi's Readme 👋 
 
 After completed a coding bootcamp for Data Science, I am actively learning every day and looking for a job as a Data Analyst. 
 
