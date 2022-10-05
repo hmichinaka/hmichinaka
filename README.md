@@ -35,7 +35,3 @@ I am a Data Analyst Intern and using SQL and Tableau on a daily basis.
   <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau" width="100" height="40"/> </a>                                                                                                                                              
 </p>
-                                                                                                                                              
-## GitHub Stats
-![Hitoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmichinaka&theme=nord&show_icons=true)
-
