@@ -1,14 +1,14 @@
 ## Welcome to Hitoshi's Readme 👋 
 
-After completed a coding bootcamp for Data Science, I am actively learning every day and looking for a job as a Data Analyst. 
+I am a Data Analyst Intern and using SQL and Tableau on a daily basis.
 
 - 🔭 My latest project is **Advanced SQL for Analytics and Business Intelligence**: [Repo](https://github.com/hmichinaka/sql-ecommerce-analytics-bi)
 
   my most challenging project was 👉 **cycle_safe(berlin)**: [Repo](https://github.com/hmichinaka/berlin-bike-theft-forecasting), [Webapp](https://cyclesafeberlin.herokuapp.com), [Live presentation on YouTube](https://youtu.be/lyFH0OvAV9w?t=1095) 
 
-- 🌱 I’m currently learning **Tableau** from online courses
+- 🌱 I’m currently learning **Looker** from online courses
 
-- 👨‍💻 I'm looking for a job as a (Junior) Data Analyst based in Berlin
+- 👨‍💻 I've got Tableau Certified Data Analyst certification after learning it on my own.
 
 - 💪 I have 8 years experience in international engineering including sales analyses. The detail is in LinkedIn as below. 
 
