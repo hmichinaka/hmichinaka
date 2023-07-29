@@ -1,12 +1,12 @@
 ## Welcome to Hitoshi's Readme 👋 
 
-I am a Data Analyst Intern and using SQL and Tableau on a daily basis.
+I am a Risk Analyst at a tech-rental company. Evalute the performance of our risk engine, which makes a decision on a submitted order from a customer by using multi-layer attributes, and propose  improvements to managements. Use **SQL**, **Excel**, **Tableau** in a daily basis.
 
 - 🔭 My latest project is **Advanced SQL for Analytics and Business Intelligence**: [Repo](https://github.com/hmichinaka/sql-ecommerce-analytics-bi)
 
   my most challenging project was 👉 **cycle_safe(berlin)**: [Repo](https://github.com/hmichinaka/berlin-bike-theft-forecasting), [Webapp](https://cyclesafeberlin.herokuapp.com), [Live presentation on YouTube](https://youtu.be/lyFH0OvAV9w?t=1095) 
 
-- 🌱 I’m currently learning **Looker** from online courses
+- 🌱 I’m currently learning **MS Excel** for advanced usage 
 
 - 👨‍💻 I've got Tableau Certified Data Analyst certification after learning it on my own.
 
