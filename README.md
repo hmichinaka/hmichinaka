@@ -10,7 +10,7 @@ I am a Risk Analyst at a tech-rental company. Evalute the performance of our ris
 
 - 👨‍💻 I've got Tableau Certified Data Analyst certification after learning it on my own.
 
-- 💪 I have 8 years experience in international engineering including sales analyses. The detail is in LinkedIn as below. 
+- 💪 I have 1 year experience in Data Analytics and 8 years experience in international engineering including sales analyses. The detail is in LinkedIn as below. 
 
 ## Connect with me:  
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hmichinaka/) 
